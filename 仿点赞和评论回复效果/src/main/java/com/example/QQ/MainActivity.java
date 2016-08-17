@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         good = (ImageView) findViewById(R.id.good);
         good2 = (ImageView) findViewById(R.id.good2);
+
         collection = (ImageView) findViewById(R.id.collection);
         bookmark = (ImageView) findViewById(R.id.bookmark);
         goodView = new GoodView(this);
