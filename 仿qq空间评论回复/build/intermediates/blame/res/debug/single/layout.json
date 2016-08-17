@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_WorkPlace\\August\\仿qq空间评论回复\\build\\intermediates\\res\\merged\\debug\\layout\\reply_item.xml",
+        "source": "D:\\AndroidStudio_WorkPlace\\August\\仿qq空间评论回复\\src\\main\\res\\layout\\reply_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_WorkPlace\\August\\仿qq空间评论回复\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "D:\\AndroidStudio_WorkPlace\\August\\仿qq空间评论回复\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_WorkPlace\\August\\仿qq空间评论回复\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudio_WorkPlace\\August\\仿qq空间评论回复\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
